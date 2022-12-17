@@ -1,0 +1,1 @@
+alert("Welcome to styles not using the css file.")
